@@ -5,7 +5,8 @@
     "drizzle",
     "next-auth",
     "trpc",
-    "stripe"
+    "stripe",
+    "resend"
   ],
   "preferredPackageManager": "npm",
   "t3": false,
